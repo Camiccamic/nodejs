@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "2.0.0",
+  "description": "me learning js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stan",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
